@@ -1,0 +1,21 @@
+body{
+    background-color: chartreuse;
+} 
+ .rubik-moonrocks-regular {
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-weight: 400;
+    font-style:oblique;
+  }
+  .row
+  {
+    background-color:black;
+    margin: 30px;
+  }
+  .col{
+    background-color: moccasin;
+    margin: 5px;
+  }
+  .modal-body
+  {
+    background-color: coral;
+  }
